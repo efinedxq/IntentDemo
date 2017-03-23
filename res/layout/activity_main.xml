@@ -19,7 +19,7 @@
         android:id="@+id/button2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="minitype方式" />
+        android:text="mimetype方式" />
 
     <Button
         android:id="@+id/button3"
@@ -31,7 +31,7 @@
         android:id="@+id/button4"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="categoray方式" />
+        android:text="category方式" />
 
     <Button
         android:id="@+id/button5"
